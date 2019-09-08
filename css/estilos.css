@@ -13,5 +13,5 @@ div {
 }
 
 #transformado {
-    transform: skewx(30deg);
+    transform: skewy(30deg);
 }
